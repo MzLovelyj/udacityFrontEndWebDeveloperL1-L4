@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1. It was nice to go over basic html skills and use superscript tag :)
+2. I found this assignment easy since I have som prior html experience.
+3. so far nothing seems difficult maybe since we are still in the first lessons but excited to see what's next
+4. When in doubt search the web is always how I try to find answers to any problems.
